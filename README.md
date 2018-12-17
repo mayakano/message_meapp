@@ -1,3 +1,3 @@
 # Message Me App
 
-Log in & Log out to message people 
+Log in & Log out to use the chatroom 
